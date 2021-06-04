@@ -1,4 +1,4 @@
-# affix
+# Affix
 
 A new Flutter project.
 
